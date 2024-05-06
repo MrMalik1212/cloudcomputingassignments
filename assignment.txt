@@ -1,0 +1,6 @@
+group1: admin2
+user- zeenat = Sudoer
+group2- support
+user -malik
+group3- technical
+user - muni
